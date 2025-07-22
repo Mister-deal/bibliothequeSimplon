@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\BibliothequeSimplon\\bibliothequeSimplon.csproj": {}
+    "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\bibliothequeSimplon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\BibliothequeSimplon\\bibliothequeSimplon.csproj": {
+    "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\bibliothequeSimplon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\BibliothequeSimplon\\bibliothequeSimplon.csproj",
+        "projectUniqueName": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\bibliothequeSimplon.csproj",
         "projectName": "bibliothequeSimplon",
-        "projectPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\BibliothequeSimplon\\bibliothequeSimplon.csproj",
+        "projectPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\bibliothequeSimplon.csproj",
         "packagesPath": "C:\\Users\\max-9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\obj\\",
+        "outputPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

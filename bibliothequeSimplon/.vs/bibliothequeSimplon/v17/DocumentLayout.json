@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD30B163-F1D8-46B3-9006-A570CBC2D3F4}|bibliothequeSimplon.csproj|c:\\users\\max-9\\onedrive\\bureau\\dev\\bibliothequesimplon\\bibliothequesimplon\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{DD30B163-F1D8-46B3-9006-A570CBC2D3F4}|bibliothequeSimplon.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD30B163-F1D8-46B3-9006-A570CBC2D3F4}|bibliothequeSimplon.csproj|c:\\users\\max-9\\onedrive\\bureau\\dev\\bibliothequesimplon\\bibliothequesimplon\\brief.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{DD30B163-F1D8-46B3-9006-A570CBC2D3F4}|bibliothequeSimplon.csproj|solutionrelative:brief.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAkwHEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T13:09:26.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Brief.md",
               "DocumentMoniker": "C:\\Users\\max-9\\OneDrive\\Bureau\\Dev\\bibliothequeSimplon\\bibliothequeSimplon\\Brief.md",
               "RelativeDocumentMoniker": "Brief.md",
